@@ -1,5 +1,5 @@
 Feature: US1008 kullanici farkli ve yanlis sifre ve kullanici adi ile giris yapamaz
-
+@negative
   Scenario Outline: TC13 yanlis kullanici adi ve sifreler ile giris yapilamaz
     Given kullanici "HotelMyCampUrl" sayfasinda
     Then Log in yazisina tiklar
