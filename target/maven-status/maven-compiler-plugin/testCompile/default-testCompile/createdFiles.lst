@@ -1,3 +1,4 @@
+Page_Calismalarim\GittigidiyorPage.class
 stepDefinitions\AmazonStepDefinitions.class
 utilities\ReusableMethods$1.class
 stepDefinitions\DataTablestepDefinitions.class
@@ -10,8 +11,10 @@ utilities\ReusableMethods$2.class
 pages\GuruTestPage.class
 runners\TestRunner.class
 utilities\Driver.class
+stepDefinitions_Calismalarim\GittigidiyorSetepDefinitions.class
 stepDefinitions\GuruTestStepDefinitions.class
 stepDefinitions\Hooks.class
+runners\TestRunner2.class
 pages\DataTablesPage.class
 stepDefinitions\HerokuappStepDefinitions.class
 utilities\ConfigReader.class
